@@ -9,5 +9,5 @@ Google Search api,
 Cursor Cluster,
 Slider ViewPager.
 <p float="center">
-<img src="http://resimag.com/p1/cf3bb110bf.png" width="500"/>
+<img src="http://resimag.com/p1/cf3bb110bf.png" width="300"/>
 </p>
